@@ -12,7 +12,7 @@ Welcome to the "Arrays, Objects & Modern Operators" readme file. In this guide, 
 6. [Modern Operators for Array and Object Manipulation](#modern-operators-for-array-and-object-manipulation)
 7. [Conclusion](#conclusion)
 
-## 1. Introduction to Arrays and Objects
+## Introduction to Arrays and Objects
 
 Arrays and objects are essential data structures in most programming languages. They allow us to store and organize multiple values under a single variable, making it easier to manage and process data.
 
@@ -20,7 +20,7 @@ An **array** is an ordered collection of values, each identified by an index or 
 
 An **object** is a collection of key-value pairs, where each key is a unique identifier and each value can be of any data type. Objects are excellent for representing real-world entities and their properties.
 
-## 2. Creating and Initializing Arrays and Objects
+## Creating and Initializing Arrays and Objects
 
 ### Creating an Array:
 
@@ -38,7 +38,7 @@ const person = {
 };
 ```
 
-## 3. Accessing and Modifying Array Elements
+## Accessing and Modifying Array Elements
 
 Arrays are zero-indexed, meaning the first element is at index 0.
 
@@ -47,7 +47,7 @@ const secondNumber = numbers[1]; // Accessing the second element (2)
 numbers[3] = 10; // Modifying the fourth element to 10
 ```
 
-## 4. Iterating through Arrays and Objects
+## Iterating through Arrays and Objects
 
 ### Iterating through an Array:
 
@@ -65,7 +65,7 @@ for (const key in person) {
 }
 ```
 
-## 5. Array and Object Methods
+## Array and Object Methods
 
 Arrays and objects come with built-in methods for various operations.
 
@@ -83,7 +83,7 @@ Arrays and objects come with built-in methods for various operations.
 - `Object.entries()`: Get an array of key-value pairs.
 - ...
 
-## 6. Modern Operators for Array and Object Manipulation
+## Modern Operators for Array and Object Manipulation
 
 Modern JavaScript offers powerful operators for working with arrays and objects more efficiently.
 
